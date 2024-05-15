@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">crudandroid</string>
+    <string name="Item">Itens em estoque</string>
+    <string name="ItemNome">Nome do item:</string>
+    <string name="QuantidadeItem">Quantidade do item:</string>
+    <string name="bt_enviar">Enviar</string>
+    <string name="bt_Listar">Listar</string>
+    <string name="Listagem_itens">Listagem dos itens\n</string>
+    <string name="bt_Editar">Editar</string>
+    <string name="bt_excluir">Excluir</string>
+    <string name="bt_alterar">Alterar</string>
+    <string name="bt_Excluir">Excluir</string>
+</resources>
